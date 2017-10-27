@@ -1,7 +1,4 @@
 # Hashing_Cpp
-
-implemented hashing data-structure by cpp.
-<br/>
 Has implemented the following operation:
   1. hash function 
   2. hash table

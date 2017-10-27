@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "__bit_reference": "cpp",
+        "algorithm": "cpp",
+        "bitset": "cpp",
+        "chrono": "cpp",
+        "map": "cpp",
+        "set": "cpp",
+        "typeinfo": "cpp",
+        "iosfwd": "cpp",
+        "__locale": "cpp",
+        "iterator": "cpp"
+    }
+}

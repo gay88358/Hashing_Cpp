@@ -7,5 +7,4 @@ Has implemented the following operation:
   5. delete the pair(key, value) in hash table with particular name
   6. print all items in hash table
   7. print all items in particular pos of hash table 
-implemented chaining by linked-list.<br/>
-develop with Unit_Test (TDD).
+implemented chaining by linked-list and develop with Unit_test(TDD).
